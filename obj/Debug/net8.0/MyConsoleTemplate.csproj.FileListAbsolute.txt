@@ -1,0 +1,14 @@
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/bin/Debug/net8.0/MyConsoleTemplate
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/bin/Debug/net8.0/MyConsoleTemplate.deps.json
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/bin/Debug/net8.0/MyConsoleTemplate.runtimeconfig.json
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/bin/Debug/net8.0/MyConsoleTemplate.dll
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/bin/Debug/net8.0/MyConsoleTemplate.pdb
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.AssemblyInfoInputs.cache
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.AssemblyInfo.cs
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.csproj.CoreCompileInputs.cache
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.dll
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/refint/MyConsoleTemplate.dll
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.pdb
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.genruntimeconfig.cache
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/ref/MyConsoleTemplate.dll

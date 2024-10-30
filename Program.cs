@@ -6,7 +6,9 @@ namespace LibraryManagementSystem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Book book0 = new Book();
+            System.Console.WriteLine(book0.ID);
+            System.Console.WriteLine(Book.BookCount);
         }
     }
 }
