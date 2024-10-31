@@ -9,6 +9,7 @@ namespace LibraryManagementSystem
             Book book0 = new Book();
             Book book1 = new Book();
             Book book3 = new Book();
+            Book book4 = new Book();
 
 
             System.Console.WriteLine(book0.ID);
