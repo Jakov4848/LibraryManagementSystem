@@ -12,3 +12,4 @@
 /home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.pdb
 /home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.genruntimeconfig.cache
 /home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/ref/MyConsoleTemplate.dll
+/home/jakov4848/Desktop/CodeSpace/dotnet/LibraryManagementSystem/obj/Debug/net8.0/MyConsoleTemplate.sourcelink.json

@@ -8,11 +8,11 @@ namespace LibraryManagementSystem
         {
             Book book0 = new Book();
             Book book1 = new Book();
+            Book book2 = new Book();
             Book book3 = new Book();
-            Book book4 = new Book();
 
 
-            System.Console.WriteLine(book0.ID);
+            System.Console.WriteLine($"{book0.ID},{book1.ID},{book2.ID},{book3.ID}");
             System.Console.WriteLine(Book.BookCount);
         }
     }
